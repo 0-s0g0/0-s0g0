@@ -1,8 +1,8 @@
 <p align="left">
-<a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO_like-blue"/></a>
-<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU_like-blue"/></a>
-<a href="https://github.com/0-s0g0/kitaQdenkiHP.git"><img src="https://img.shields.io/badge/HP-kitaQdenki_like-blue"/></a>
-<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode_like-blue"/></a>
+<a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO-blue"/></a>
+<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
+<a href="https://github.com/0-s0g0/kitaQdenkiHP.git"><img src="https://img.shields.io/badge/HP-kitaQdenki-blue"/></a>
+<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode-blue"/></a>
 </p>
 
 ## About me
