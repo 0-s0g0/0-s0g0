@@ -1,6 +1,8 @@
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/web_Site-TSUNAGU_like-blue"/></a>
+<a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO_like-blue"/></a>
+<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU_like-blue"/></a>
+<a href="https://github.com/0-s0g0/kitaQdenkiHP.git"><img src="https://img.shields.io/badge/HP-kitaQdenki_like-blue"/></a>
+<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode_like-blue"/></a>
 </p>
 
 ## About me
