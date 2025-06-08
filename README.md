@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-orange"/></a>
 <a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-orange"/></a>
+<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-orange"/></a>
 </p>
 
 ## About me
