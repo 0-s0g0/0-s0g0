@@ -13,7 +13,7 @@
 </p>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-pink"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-green"/></a>
 </p>
 
 
