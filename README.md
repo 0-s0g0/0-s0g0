@@ -18,7 +18,7 @@
 <a href="https://github.com/jangwoung/GAKUSAI-AnkyloCup"><img src="https://img.shields.io/badge/App-市か区-green"/></a>
 </p>
 
-
+## My Status
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-s0g0&show_icons=true&theme=vue-right)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-s0g0&layout=compact&theme=vue-right)](https://github.com/anuraghazra/github-readme-stats)
