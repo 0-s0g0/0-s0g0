@@ -20,7 +20,7 @@
 <a href="https://github.com/0-s0g0/TEKUTEKU"><img src="https://img.shields.io/badge/App-TEKUTEKU-green"/></a>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-red"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-pink"/></a>
 </p>
 
 ## My Status
