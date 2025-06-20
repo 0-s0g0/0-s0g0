@@ -20,7 +20,7 @@
 <a href="https://github.com/0-s0g0/TEKUTEKU"><img src="https://img.shields.io/badge/App-TEKUTEKU-green"/></a>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-yellow"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-red"/></a>
 </p>
 ## My Status
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-s0g0&show_icons=true&theme=vue-right)
