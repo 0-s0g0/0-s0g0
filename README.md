@@ -7,9 +7,9 @@
 <a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode-blue"/></a>
 </p>
 <p align="left">
-<a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-red"/></a>
-<a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-red"/></a>
-<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-red"/></a>
+<a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-green"/></a>
+<a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-green"/></a>
+<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-green"/></a>
 </p>
 </p>
 <p align="left">
@@ -20,7 +20,7 @@
 <a href="https://github.com/0-s0g0/TEKUTEKU"><img src="https://img.shields.io/badge/App-TEKUTEKU-green"/></a>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-green"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-yellow"/></a>
 </p>
 
 ## My Status
