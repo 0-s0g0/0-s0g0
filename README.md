@@ -1,26 +1,26 @@
 ## My Repositories
 
 <p align="left">
-<a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO-blue"/></a>
-<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
-<a href="https://github.com/Yiwashi/kitaQdenkiHP"><img src="https://img.shields.io/badge/HP-kitaQdenki-blue"/></a>
-<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode-blue"/></a>
+<a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO-red"/></a>
+<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-red"/></a>
+<a href="https://github.com/Yiwashi/kitaQdenkiHP"><img src="https://img.shields.io/badge/HP-kitaQdenki-red"/></a>
+<a href="https://github.com/StepByCode/HP"><img src="https://img.shields.io/badge/HP-StepByCode-red"/></a>
 </p>
 <p align="left">
-<a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-orange"/></a>
-<a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-orange"/></a>
-<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-orange"/></a>
+<a href="https://github.com/0-s0g0/Atcoder"><img src="https://img.shields.io/badge/Study-AtCoder-green"/></a>
+<a href="https://github.com/0-s0g0/studyforRuby"><img src="https://img.shields.io/badge/Study-Ruby-green"/></a>
+<a href="https://github.com/0-s0g0/StudyForNext"><img src="https://img.shields.io/badge/Study-Next-green"/></a>
 </p>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-red"/></a>
-<a href="https://https://github.com/0-s0g0/thankyou-app"><img src="https://img.shields.io/badge/App-ThanksLink-red"/></a>
-<a href="https://github.com/jangwoung/GAKUSAI-AnkyloCup"><img src="https://img.shields.io/badge/App-市か区-green"/></a>
-<a href="https://github.com/0-s0g0/DopingRamune"><img src="https://img.shields.io/badge/App-DreamShare-green"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-orange"/></a>
+<a href="https://https://github.com/0-s0g0/thankyou-app"><img src="https://img.shields.io/badge/App-ThanksLink-orange"/></a>
+<a href="https://github.com/jangwoung/GAKUSAI-AnkyloCup"><img src="https://img.shields.io/badge/App-市か区-orange"/></a>
+<a href="https://github.com/0-s0g0/DopingRamune"><img src="https://img.shields.io/badge/App-DreamShare-orange"/></a>
 <a href="https://github.com/0-s0g0/TEKUTEKU"><img src="https://img.shields.io/badge/App-TEKUTEKU-green"/></a>
 </p>
 <p align="left">
-<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-purple"/></a>
+<a href="https://https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-blue"/></a>
 </p>
 
 ## My Status
