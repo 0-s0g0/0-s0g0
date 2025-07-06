@@ -3,6 +3,10 @@
 
 <a href="https://0-s0g0.com/">https://0-s0g0.com/</a>
 
+<img src="https://github.com/user-attachments/assets/5b10e611-f6f3-4559-877f-fe724c9bc007" width="100">
+<a href="https://0-s0g0.com/">https://0-s0g0.com/</a>
+
+
 ## My Repositories
 ##### -Public-
 <p align="left">
