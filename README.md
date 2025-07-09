@@ -34,8 +34,8 @@
 ##### -Private-
 <p align="left">
 <a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
-<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-BrainWithOut3-red"/></a>
-<a href="https://github.com/0-s0g0/Case3"><img src="https://img.shields.io/badge/Research-BrainWith3-red"/></a>
+<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-BrainSame-red"/></a>
+<a href="https://github.com/0-s0g0/Case3"><img src="https://img.shields.io/badge/Research-BrainDef-red"/></a>
 
 </p>
 
