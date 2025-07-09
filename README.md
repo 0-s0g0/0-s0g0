@@ -34,7 +34,7 @@
 ##### -Private-
 <p align="left">
 <a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
-<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-Cerebrovascular-red"/></a>
+<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-BrainC1_C4-red"/></a>
 </p>
 
 ## My Status
