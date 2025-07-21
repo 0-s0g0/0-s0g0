@@ -31,12 +31,10 @@
 
 
 ##### -Private-
--ClientWorks-
 <p align="left">
 <a href="https://github.com/Yiwashi/kitaQdenkiHP"><img src="https://img.shields.io/badge/HP-kitaQdenki-blue"/></a>
 <a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
 </p>
--Reserch-
 <p align="left">
 <a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-BrainSame-red"/></a>
 <a href="https://github.com/0-s0g0/Case3"><img src="https://img.shields.io/badge/Research-BrainDef-red"/></a>
