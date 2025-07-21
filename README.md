@@ -36,9 +36,11 @@
 <a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
 </p>
 <p align="left">
-<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/Research-BrainSame-red"/></a>
-<a href="https://github.com/0-s0g0/Case3"><img src="https://img.shields.io/badge/Research-BrainDef-red"/></a>
-<a href="https://github.com/0-s0g0/CPV1"><img src="https://img.shields.io/badge/Research-CPV1-red"/></a>
+<a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/RS1-BrainSame-red"/></a>
+<a href="https://github.com/0-s0g0/Case3"><img src="https://img.shields.io/badge/RS1-BrainDef-red"/></a>
+<a href="https://github.com/0-s0g0/3Dviewer"><img src="https://img.shields.io/badge/RS1-3Dviewer-red"/></a>
+<a href="https://github.com/0-s0g0/SegPlot"><img src="https://img.shields.io/badge/RS1-SegPlot-red"/></a>
+<a href="https://github.com/0-s0g0/CPV1"><img src="https://img.shields.io/badge/RS2-CPV1-red"/></a>
 </p>
 
 
