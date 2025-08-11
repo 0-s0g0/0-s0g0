@@ -32,7 +32,7 @@
 ##### -Private-
 <p align="left">
 <a href="https://github.com/Yiwashi/kitaQdenkiHP"><img src="https://img.shields.io/badge/HP-kitaQdenki-blue"/></a>
-<a href="https://github.com/0-s0g0/tsunaguHP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
+<a href="https://github.com/TSUNAGU-association/TSUNAGU-HP"><img src="https://img.shields.io/badge/HP-TSUNAGU-blue"/></a>
 </p>
 <p align="left">
 <a href="https://github.com/0-s0g0/C-study01"><img src="https://img.shields.io/badge/RS1-BrainSame-red"/></a>
