@@ -4,7 +4,7 @@
 <a href="https://0-s0g0.com/">https://0-s0g0.com/</a>
 
 ## My Repositories
-a
+
 ##### -Public-
 <p align="left">
 <a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO-blue"/></a>
