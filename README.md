@@ -19,6 +19,7 @@
 </p>
 <p align="left">
 <a href="https://github.com/0-s0g0/tamalog"><img src="https://img.shields.io/badge/App-たまlog-orange"/></a>
+<a href="https://github.com/0-s0g0/tamalog2"><img src="https://img.shields.io/badge/App-たまlog2-orange"/></a>
 <a href="https://github.com/0-s0g0/thankyou-app"><img src="https://img.shields.io/badge/App-ThanksLink-orange"/></a>
 <a href="https://github.com/jangwoung/GAKUSAI-AnkyloCup"><img src="https://img.shields.io/badge/App-市か区-orange"/></a>
 <a href="https://github.com/0-s0g0/DopingRamune"><img src="https://img.shields.io/badge/App-DreamShare-orange"/></a>
