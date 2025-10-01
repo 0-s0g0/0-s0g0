@@ -1,11 +1,9 @@
 ## My Portfolio
-
-
-
+<img src="https://github.com/user-attachments/assets/7268ee5f-b2c9-412d-b402-0d6cca1dd479" width="200">
 <a href="https://0-s0g0.com/">https://0-s0g0.com/</a>
 
 ## My Repositories
-<a href="https://github.com/orgs/JunctionX-OS/repositories"><img src="https://img.shields.io/badge/JunctionX-OS-pink"/></a>
+
 ##### -Public-
 <p align="left">
 <a href="https://github.com/0-s0g0/MyPortfolio_Next"><img src="https://img.shields.io/badge/HP-PORTFOLIO-blue"/></a>
@@ -43,7 +41,9 @@
 <a href="https://github.com/0-s0g0/SegPlot"><img src="https://img.shields.io/badge/RS1-SegPlot-red"/></a>
 <a href="https://github.com/0-s0g0/CPV1"><img src="https://img.shields.io/badge/RS2-CPV1-red"/></a>
 <a href="https://github.com/0-s0g0/APMd"><img src="https://img.shields.io/badge/RS2-APMd-red"/></a>
-<img src="https://github.com/user-attachments/assets/7268ee5f-b2c9-412d-b402-0d6cca1dd479" width="200">
+<a href="https://github.com/orgs/JunctionX-OS/repositories"><img src="https://img.shields.io/badge/JunctionX-OS-pink"/></a>
+
+
 
   
 </p>
