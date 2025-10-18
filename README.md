@@ -51,11 +51,13 @@
 
 
 ## My Status
-![0-s0g0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0-s0g0&show_icons=true&theme=vue-right)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0-s0g0&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-s0g0&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-s0g0&layout=compact&theme=vue-right)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=0-s0g0&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 
