@@ -41,7 +41,7 @@
 <a href="https://github.com/0-s0g0/3Dviewer"><img src="https://img.shields.io/badge/RS1-3Dviewer-red"/></a>
 <a href="https://github.com/0-s0g0/SegPlot"><img src="https://img.shields.io/badge/RS1-SegPlot-red"/></a>
 <a href="https://github.com/0-s0g0/CPV1"><img src="https://img.shields.io/badge/RS2-CPV1-red"/></a>
-<a href="https://github.com/0-s0g0/APMd"><img src="https://img.shields.io/badge/RS2-APMd-red"/></a>
+<a href="https://github.com/0-s0g0/APM-DB"><img src="https://img.shields.io/badge/RS2-APM-DB-red"/></a>
 <a href="https://github.com/orgs/JunctionX-OS/repositories"><img src="https://img.shields.io/badge/JunctionX-OS-pink"/></a>
 
 
