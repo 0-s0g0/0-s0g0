@@ -50,13 +50,6 @@
 </p>
 
 
-## My Status
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0-s0g0&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-s0g0&layout=compact" />
-</a>
 
 
 
